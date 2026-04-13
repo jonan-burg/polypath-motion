@@ -80,5 +80,5 @@ Each run randomizes the road curvature and obstacle placement to test planner ro
 
 ---
 
-**Course project:** ####Matrices, Differential Equations for Computer Science#### - Calculus-Based Trajectory Planning For Autonomous Vehicles  
+**Course project:** Calculus-Based Trajectory Planning For Autonomous Vehicles  
 Demonstrates applied use of derivatives, integrals, and polynomial modeling in the context of autonomous vehicle motion planning.
